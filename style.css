@@ -1,0 +1,32 @@
+
+* {
+    margin: 0;
+    padding: 2%;
+}
+
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#head {
+    background-image: url("image/photo-1568736772245-26914aae0b09.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    background-position: center;
+    border-radius: 50px;
+    margin: 30px;
+    position: relative;
+    
+}
+
+.star {
+    position: absolute;
+    bottom: -20%;
+    left: 45%;
+}
+
+p:hover{
+    color : rgb(18, 76, 191);
+}
